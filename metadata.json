@@ -1,0 +1,7 @@
+{
+  "name": "Corruption King",
+  "description": "An AI-powered legal assistant to help you navigate FCFCOA matters. It can prioritize tasks, summarize legal documents, and provide guidance through an intelligent chatbot, all based on your specific case context. \n",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
